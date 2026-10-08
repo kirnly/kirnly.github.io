@@ -1,2 +1,2 @@
-# kneditor.github.io
-KNEditor: Website
+# kirnly.github.io
+Kirnly: Website
