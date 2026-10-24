@@ -30,6 +30,7 @@ Kirnly is a calm, focused editor for writing Kirn. It brings project navigation,
 - [Kirn website](https://kirn-lang.github.io/)
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
 - [Pets contribution docs](https://pets-registry.github.io/pets)
+- [Kirsh terminal website](https://kirsh-shell.github.io/)
 
 ## Local development
 
